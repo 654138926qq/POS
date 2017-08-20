@@ -1,9 +1,8 @@
-# pos
+# VuePOS点餐系统
 ---------------------------------------------------------------------------------
-Vue+Webpack+Element+Axios+vueRouter
-实现点餐系统
+  Vue+Webpack+Element+Axios+vueRouter
+  实现
 ---------------------------------------------------------------------------------
-实现
 > A Vue.js project
 
 ## Build Setup
